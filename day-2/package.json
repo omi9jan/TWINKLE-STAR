@@ -4,7 +4,10 @@
   "description": "Topics:",
   "main": "index.js",
   "scripts": {
-    "script": "tsc file1.ts"
+    "script1": "tsc file1.ts",
+    "script2": "tsc ts_1.ts",
+    "script3": "tsc ts_2.ts",
+    "script4": "tsc ts_3.ts"
   },
   "repository": {
     "type": "git",

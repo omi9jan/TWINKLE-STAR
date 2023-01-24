@@ -119,7 +119,7 @@ let arrOfUsers1 : Array<User> = [
 
 
 //function
-function sum (a : number, b : number) : number {
+function Sum (a : number, b : number) : number {
     return a+b;
 }
 
