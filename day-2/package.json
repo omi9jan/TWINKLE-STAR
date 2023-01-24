@@ -1,0 +1,23 @@
+{
+  "name": "twinkle-star",
+  "version": "1.0.0",
+  "description": "Topics:",
+  "main": "index.js",
+  "scripts": {
+    "script": "tsc file1.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omi9jan/TWINKLE-STAR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omi9jan/TWINKLE-STAR/issues"
+  },
+  "homepage": "https://github.com/omi9jan/TWINKLE-STAR#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
+}
