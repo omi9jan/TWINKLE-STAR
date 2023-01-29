@@ -1,0 +1,2 @@
+//literals
+var gender = "male";
